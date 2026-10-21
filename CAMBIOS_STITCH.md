@@ -1,6 +1,6 @@
 # Práctica 4 · Vistas de Google Stitch en saludo-app
 
-El maestro pidió: conectar el MCP de Stitch al editor (VS Code con Copilot, Antigravity o Claude) y generar con Stitch
+El maestro pidió: conectar el MCP de Stitch al editor (VS Code) y generar con Stitch
 **listado de usuarios**, **registro de usuarios** y **editar perfil** sobre el proyecto con el que trabajamos.
 
 ## 1. MCP de Stitch
